@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cryptoverse-currencies/static/css/main.8e7e8338.css",
+    "main.js": "/cryptoverse-currencies/static/js/main.86808e5a.js",
+    "static/js/787.4b15eb91.chunk.js": "/cryptoverse-currencies/static/js/787.4b15eb91.chunk.js",
+    "static/media/bittorrent-bttold-logo.png": "/cryptoverse-currencies/static/media/bittorrent-bttold-logo.6150b1a40787a9d43bf0.png",
+    "index.html": "/cryptoverse-currencies/index.html",
+    "main.8e7e8338.css.map": "/cryptoverse-currencies/static/css/main.8e7e8338.css.map",
+    "main.86808e5a.js.map": "/cryptoverse-currencies/static/js/main.86808e5a.js.map",
+    "787.4b15eb91.chunk.js.map": "/cryptoverse-currencies/static/js/787.4b15eb91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e7e8338.css",
+    "static/js/main.86808e5a.js"
+  ]
+}
